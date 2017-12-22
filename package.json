@@ -1,0 +1,49 @@
+{
+  "name": "@neo-one/boa",
+  "boaVersion": "0.2.1",
+  "version": "0.0.1",
+  "keywords": [
+    "neo",
+    "NEO",
+    "one",
+    "ONE",
+    "blockchain",
+    "neo-one",
+    "neo-one-suite",
+    "neo one",
+    "neo one suite",
+    "NEO ONE",
+    "NEO ONE suite",
+    "NEO•ONE",
+    "NEO•ONE suite",
+    "neo blockchain",
+    "NEO Blockchain",
+    "NEO blockchain",
+    "cli",
+    "dapp",
+    "dapps",
+    "boa",
+    "neo-boa",
+    "neo boa"
+  ],
+  "bin": {
+    "neo-one-boa": "cli.js"
+  },
+  "files": [
+    "neo-one-boa-linux64-v*/neo-one-boa",
+    "neo-one-boa-osx-v*/neo-one-boa",
+    "neo-one-boa-win64-v*/neo-one-boa.exe",
+    "vendor",
+    "cli.js",
+    "index.js",
+    "SHASUM256.txt"
+  ],
+  "description": "NEO•ONE neo-boa Python distributed as a cross-platform npm package.",
+  "repository": "https://github.com/neo-one-suite/neo-one-boa",
+  "bugs": "https://github.com/neo-one-suite/neo-one-boa/issues",
+  "license": "MIT",
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
