@@ -30,9 +30,9 @@
     "neo-one-boa": "cli.js"
   },
   "files": [
-    "neo-one-boa-linux64-v*/neo-one-boa",
+    "neo-one-boa-linux-v*/neo-one-boa",
     "neo-one-boa-osx-v*/neo-one-boa",
-    "neo-one-boa-win64-v*/neo-one-boa.exe",
+    "neo-one-boa-win-v*/neo-one-boa.exe",
     "vendor",
     "cli.js",
     "index.js",

@@ -1,3 +1,3 @@
-839c4393c4345926b2c2f9cd0edc477b8588a24a7c7061e2e46e7075fc3a4834  neo-one-boa-osx-v0.2.1/neo-one-boa
-5841f360f4045be8a997508cace4623476484db3af2717bebf3777e4f5bfc6e3  neo-one-boa-linux64-v0.2.1/neo-one-boa
-a3ddb76f16bcbc31957e008b2fedb9b87fdfae8e3256e8b525280deb1b3a4bf0  neo-one-boa-win64-v0.2.1/neo-one-boa.exe
+b47627c71ab4b5ea3efbe67748c7dd71345e065239d39f43e955668579af1ae5  neo-one-boa-osx-v0.2.1/neo-one-boa
+5203dc96f1a90b74f7e37cfdef0a51fe7da0afcbae658ca5b7eb00129459fa29  neo-one-boa-linux-v0.2.1/neo-one-boa
+65f833becd34dd7dd50135946494bc1f5bfb43f6756334594e7275488156feb5  neo-one-boa-win-v0.2.1/neo-one-boa.exe
