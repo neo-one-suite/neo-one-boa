@@ -11,12 +11,6 @@ OS X, Linux and Windows binaries are currently provided.
 $ npm install --global @neo-one/boa
 ```
 
-or
-
-```
-$ yarn global add @neo-one/boa
-```
-
 ```
 $ neo-one-boa sc.py sc.avm
 ```
