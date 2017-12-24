@@ -27,7 +27,7 @@ const execFile = require('child_process').execFile;
 const boa = require('@neo-one/boa');
 
 execFile(boa, ['sc.py', 'sc.avm'], (err, stdout) => {
-	console.log(stdout);
+  console.log(stdout);
 });
 ```
 
